@@ -1,0 +1,50 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+
+    justify-content: space-around;
+    list-style: none;
+ display: flex;
+   background-color: rgba(0,0,0,0.5);
+}
+
+nav li {
+  position: relative;
+  display: inline-block;
+
+}
+
+  nav a{
+text-decoration: none;
+position: relative;
+text-align: center;
+text-transform: uppercase;
+font-size:40px;
+  color: #000;
+
+  }
+  body{
+    background-color: #B6853C;
+
+  }
+
+  body a{
+    
+    text-decoration: none;
+    position: relative;
+
+
+    text-transform: uppercase;
+    font-size:40px;
+  }
+  body li{
+
+    text-align: center;
+  }
